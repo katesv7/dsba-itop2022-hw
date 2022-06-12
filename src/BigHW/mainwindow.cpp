@@ -5,7 +5,6 @@
 #include "aboutdialog.h"
 #include <QFileDialog>
 #include <QTextStream>
-//#include <QFile>
 #include <QRegularExpression>
 #include <QSortFilterProxyModel>
 
